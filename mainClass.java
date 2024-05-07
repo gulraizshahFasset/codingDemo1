@@ -40,7 +40,8 @@ public class mainClass {
 
         //static vs non static
         classDemo1.printNationality();
-
+        // jdefjshdfjkdhs
+        String a;
     }
 
 }
