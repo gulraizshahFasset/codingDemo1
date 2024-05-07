@@ -42,6 +42,7 @@ public class mainClass {
         classDemo1.printNationality();
         // jdefjshdfjkdhs
         String a;
+        String bn="sdfsdf";
     }
 
 }
