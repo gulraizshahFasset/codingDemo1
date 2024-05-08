@@ -39,10 +39,23 @@ public class mainClass {
         demoClass2.getage();*/
 
         //static vs non static
-        classDemo1.printNationality();
+      /*  classDemo1.printNationality();
         // jdefjshdfjkdhs
         String a;
         String bn="sdfsdf";
+
+        childPoly c1= new childPoly();
+        c1.namePrint();
+        c1.identity();
+        c1.identity("Anas");
+        c1.identity("Anas","Nawaz");
+        c1.identity(123456);*/
+
+        abstractImplementation a1 = new abstractImplementation();
+        a1.name();
+        a1.identity();
+
+
     }
 
 }
